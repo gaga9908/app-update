@@ -1,0 +1,13 @@
+{
+  "versionCode": 30210,
+  "versionName": "3.2.1",
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/gaga9908/app-update/releases/download/v3.2.1/app-release.apk",
+  "changelog": [
+    "新增软件在线更新功能，可自动检测新版本",
+    "新增菜单「软件更新」入口，可手动检查更新",
+    "启动时自动静默检查更新，有新版本自动提示",
+    "支持应用内下载并安装，无需跳转浏览器",
+    "支持跳过指定版本，不再重复提示"
+  ]
+}
